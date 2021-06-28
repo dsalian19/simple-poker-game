@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\n\ Represents\ a\ deck\ of\ 52\ cards\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=java.util.ArrayList\ getDeck()
+comment3.params=
+comment3.target=Card\ getCard()
+comment4.params=
+comment4.target=void\ printDeck()
+comment5.params=
+comment5.target=void\ shuffleDeck()
+numComments=6

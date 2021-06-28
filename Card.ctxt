@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ Represents\ a\ single\ playing\ card\ from\ a\ deck\ of\ cards.\n
+comment1.params=card
+comment1.target=Card(int)
+comment1.text=\ \n\ Takes\ a\ number\ between\ 0\ and\ 51\ and\ converts\ it\ to\ a\ unique\n\ card\ from\ a\ standard\ 52\ card\ deck.\ \n\ @\ param\ an\ integer\ between\ 0\ and\ 51\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Produces\ a\ string\ that\ contains\ the\ card's\ rank\ and\ suit\n\ @return\ string\ with\ card's\ rank\ and\ suit\ (e.g.\ Ace\ of\ Hearts)\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\n\ Get\ the\ cards\ value\ for\ a\ game\ of\ Blackjack\n\ @return\ int\ between\ 1\ and\ 11\n
+comment4.params=
+comment4.target=java.lang.String\ getRank()
+comment5.params=
+comment5.target=java.lang.String\ getSuit()
+numComments=6
